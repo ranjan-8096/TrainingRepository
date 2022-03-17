@@ -28,7 +28,7 @@ public class TestVariablesOperators {
 		String v = TypeCastingJava.intintostring(55);
 		System.out.println(v);
 		
-		
+		System.out.print("table");
 	}
 
 }
